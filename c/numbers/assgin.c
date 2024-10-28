@@ -1,3 +1,4 @@
+// interview question
 #include <stdio.h>
 int main(){
     int a=10;
@@ -8,3 +9,5 @@ int main(){
     a=c;
     printf("%d %d %d",a,b,c);
 }
+
+// output ---> 20 10 20
